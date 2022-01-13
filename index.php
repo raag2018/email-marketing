@@ -299,9 +299,7 @@
 							<a class="nav-link learn-more-btn btn-invert" href="mailto:name@domain.com">Send an Email</a>
 						</div>
 					</div>
-					<div class="col-md-6 contact-header-img">
-						<img src="public/images/contact-header-img.png">
-					</div>
+					
 				</div>
 			</div>
 			         	<!-- FOOTER -->
