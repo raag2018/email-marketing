@@ -22,7 +22,7 @@
 				</div>
 			</div>
 			<!-- STRATEGY SECTION -->
-			<div class="strategy-section">
+			<!-- div class="strategy-section">
 				<div class="strategy-section-bg-graphics-section">
 					<img src="public/images/strategy-section-bg.png">
 				</div>
@@ -64,13 +64,13 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div -->
 
 			<!-- SECTION LABEL -->
-			<div id="services"></div>
+			<!-- div id="services"></div -->
 
 			<!-- SERVICES -->
-			<div class="services-section">
+			<!-- div class="services-section">
 				<div class="services-section-bg-graphics">
 					<img src="public/images/services-section-bg.png">
 				</div>
@@ -98,9 +98,9 @@
 						<img src="public/images/services-header.png">
 					</div>
 				</div>
-			</div>
+			</div -->
 			<!-- SALES GROWTH -->
-			<div class="services-sales-section">
+			<!-- div class="services-sales-section">
 				<div class="container services-container">
 					<div class="col-lg-6 services-header-img-section padding-0">
 						<img src="public/images/services-sales-header.png">
@@ -114,11 +114,11 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div -->
 			<!-- SECTION LABEL -->
-			<div id="pricing"></div>
+			<!-- div id="pricing"></div -->
 			<!-- PRICING -->
-			<div class="pricing-section">
+			<!-- div class="pricing-section">
 				<div class="pricing-section-left-bg-graphics">
 					<img src="public/images/pricing-section-left-bg.png">
 				</div>
@@ -130,7 +130,7 @@
 						<h2>Pricing</h2>
 						<p>Offer multiple packages or monthly subscriptions? Why not showcase your featured price plans here, bold and beautifully.</p>
 					</div>
-					<!-- PRICE PLANS -->
+					<!-- PRICE PLANS>
 					<div class="pricing-plan-cards-section">
 						<div class="col-lg-4 col-md-8 col-xs-10 pricing-card-section">
 							<div class="pricing-card">
@@ -184,11 +184,11 @@
 						</div>
 					</div>
 				</div>
-			</div>	
+			</div -->	
 			<!-- SECTION LABEL -->
-			<div id="clients"></div>
+			<!-- div id="clients"></div -->
             <!-- CLIENTS -->
-			<div class="clients-section">
+			<!-- div class="clients-section">
 				<div class="container clients-container">
 					<div class="clients-title-section">
 						<p class="clients-subtitle">Our clients</p>
@@ -235,11 +235,11 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div -->
 			<!-- SECTION LABEL -->
-			<div id="news"></div>
+			<!-- div id="news"></div -->
 			<!-- NEWS -->
-			<div class="blog-section">
+			<!-- div class="blog-section">
 				<div class="blog-section-right-bg">
 					<img src="public/images/blog-section-right-bg.png">
 				</div>
@@ -285,11 +285,11 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div -->
 			<!-- SECTION LABEL -->
-			<div id="contact"></div>
+			<!-- div id="contact"></div -->
 			<!-- CONTACT -->
-			<div class="contact-section">
+			<!-- div class="contact-section">
 				<div class="container contact-container">
 					<div class="col-md-6 contact-title-section">
 						<p class="contact-subtitle">Contact</p>
@@ -301,6 +301,5 @@
 					</div>
 					
 				</div>
-			</div>
-			         	<!-- FOOTER -->
+			</div -->
 	<?php include("view/footer.php"); ?>

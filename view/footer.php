@@ -1,29 +1,56 @@
-         	<!-- FOOTER -->
-			<div class="footer-section">
+        <!--MODAL-->
+        <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+		    <div class="modal-dialog modal-smll" role="document">
+		        <div class="modal-content">
+		            <div class="modal-header bg-primary text-center">
+		                <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+		                <h2 class="modal-title" id="myModalLabel">Subscribe to our Newsletter.</h2>
+		                <p>We promise we will not spam you.</p>
+		            </div>
+		            <div class="modal-body">
+		                <div class="row">
+		                    <form action="#">
+		                        <div class="form-group col-md-12">
+		                        <div class="input-group">
+		                            <span class="input-group-addon">@</span>
+		                            <input type="email" class="form-control input-lg"  placeholder="Your email here">
+		                        </div>
+		                    </div>
+		                     <div class="form-group col-md-12">
+		                        <input type="submit" class="btn btn-primary btn-lg btn-block" value="Subscribe">
+		                    </div>
+		                    </form>
+		                </div>
+		            </div>
+		        </div>
+		    </div>
+		</div>
+        <!-- FOOTER -->
+		<div class="footer-section">
 				<div class="footer-section-bg-graphics">
 					<img src="../public/images/footer-section-bg.png">
 				</div>
                 <!-- Footer Column 1 -->
 				<div class="container footer-container">
-					<div class="col-lg-3 col-md-6 footer-logo">
+					<!-- div class="col-lg-3 col-md-6 footer-logo">
 						<img src="../public/images/logo_footer.png">
 						<p class="footer-susection-text">A beautiful landing page template by Codefest.</p>
-					</div>
-					<div class="col-lg-3 col-md-6 footer-subsection">
+					</div -->
+					<!-- div class="col-lg-3 col-md-6 footer-subsection">
 						<div class="footer-subsection-2-1">
 							<h3 class="footer-subsection-title">About</h3>
 							<p class="footer-subsection-text">We like to do business at Codelander HQ to our clients' satisfaction.</p>
 						</div>
-					</div>
+					</div -->
                     <!-- Footer Column 2 -->
-					<div class="col-lg-3 col-md-6 footer-subsection">
+					<!-- div class="col-lg-3 col-md-6 footer-subsection">
 						<h3 class="footer-subsection-title">Contact Us</h3>
 						<ul class="footer-subsection-list">
 							<li>123 Business Centre<br>London SW1A 1AA</li>
 							<li>0123456789</li>
 							<li>mail@domain.com</li>
 						</ul>	
-					</div>
+					</div -->
                     <!-- Footer Column 3 -->
 					<div class="col-lg-3 col-md-6 footer-subsection">
 						<div class="footer-subsection-2-2">
@@ -37,11 +64,11 @@
 						</div>
 					</div>
 				</div>
-         <!-- FOOTER CREDITS -->
+        <!-- FOOTER CREDITS -->
 				<div class="container footer-credits">
 					<p>&copy; 2020 <a href="https://www.codefest.co.uk" target="_blank" title="Codefest">Codefest</a>&trade;. All Rights Reserved.</p>
 				</div>
-			</div>
+		</div>
 		</div>
 
 	<!-- FOOTER SCRIPTS -->

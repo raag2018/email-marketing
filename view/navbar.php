@@ -51,7 +51,8 @@
 					</ul>
 					<ul class="navbar-nav">
 						<li class="nav-item">
-							<a class="nav-link learn-more-btn" href="#">Signup</a>
+							<a class="nav-link learn-more-btn" href="#"
+							data-toggle="modal"  data-target="#myModal" role="button">Signup</a>
 						</li>
 					</ul>
 				</div>
