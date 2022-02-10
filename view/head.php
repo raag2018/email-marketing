@@ -8,7 +8,7 @@
 	<meta name="keywords" content="Codelander,Codefest">
 	<meta name="author" content="Codefest">
 	<meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1">
-	<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+	<!-- meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests" -->
 	<!-- FAVICON -->
 	<link rel="icon" type="image/png" href="../public/images/favicon.png">
     <!-- STYLESHEETS -->

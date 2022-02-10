@@ -2,15 +2,34 @@
         <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
 	        <div class="modal-dialog" role="document">
 	            <div class="modal-content">
-	                <div class="modal-header"> <button type="button" class="close" data-dismiss="modal" aria-label="Close"> <span aria-hidden="true">&times;</span> </button> </div>
+	                <div class="modal-header"> 
+	                	<button type="button" class="close" data-dismiss="modal" aria-label="Close"> 
+	                		<span aria-hidden="true">&times;</span> 
+	                	</button> 
+	                	</div>
 	                <div class="modal-body p-0 row">
-	                    <div class="col-12 col-lg-5 ad p-0"> <img src="https://i.imgur.com/UCqKKB4.jpg" width="100%" height="100%" /> </div>
-	                    <div class="details col-12 col-lg-7">
-	                        <h2>STAY TUNED</h2>
-	                        <p><small class="para">Subscribe to our newsletter and never miss our<br> designs ,latest news.etc.</small></p>
-	                        <p><small class="para">Our newsletter is sent once a week, every<br>Monday</small></p>
-	                        <div class="form-group mt-3 pt-3 mb-5"><input type="email" class="form-control" placeholder="email@example.com"> </div> <small class="text-muted"><a href="#">Personal Data Charter</a></small>
+	                    <div class="col-12 col-lg-5 ad p-0"> 
+	                    	<img src="https://i.imgur.com/UCqKKB4.jpg" width="100%" height="100%" /> 
 	                    </div>
+	                    <form action="footer_submit" method="post" id="frmSubscrípcion">
+	                    	<div class="details col-12 col-lg-7">
+		                        <h2>UNAB</h2>
+		                        <p>
+		                        	<small class="para">Subscribe to our newsletter and never miss our<br> designs ,latest news.etc.</small>
+		                        </p>
+		                        <p>
+		                        	<small class="para">Our newsletter is sent once a week, every<br>Monday</small>
+		                        </p>
+		                        <div class="form-group mt-3 pt-3 mb-5">
+		                        	<input type="email" class="form-control" placeholder="email@example.com"> 
+		                        </div> 
+		                        <small class="text-muted">
+		                        	<a href="#">Personal Data Charter</a>
+		                        </small>
+		                        <button class="btn btn-primary" id="btnGuardar">Guardar</button>
+		                    </div>
+	                    </form>
+	                    
 	                </div>
 	            </div>
 	        </div>
